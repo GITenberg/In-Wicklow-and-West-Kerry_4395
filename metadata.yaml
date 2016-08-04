@@ -1,0 +1,32 @@
+_repo: In-Wicklow-and-West-Kerry_4395
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Synge, J. M. (John Millington)
+    aliases:
+    - Synge, Edmund John Millington
+    - Synge, John Millington
+    birthdate: 1871
+    deathdate: 1909
+    gutenberg_agent_id: '504'
+    url: http://www.gutenberg.org/2009/agents/504
+    wikipedia: http://en.wikipedia.org/wiki/John_Millington_Synge
+description: One of Ireland's best-loved writers, John Millington Synge captures the
+  charm and beauty of the Irish landscape and its people in this delightful travelogue.
+  During his sojourns Synge befriended a rich assortment of people, from farmers and
+  tinkers to weavers and boat-builders, all of whom come alive in this evocative account
+  of his ramblings around the countryside.
+gutenberg_issued: '2003-08-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '4395'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Ireland -- Social life and customs'
+- !lcc 'DA'
+- GITenberg
+title: In Wicklow and West Kerry
+url: http://www.gutenberg.org/ebooks/4395
